@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/00ed6f993e410f834c891.jpg" alt="animated" width="300" height="300" />
+  <img src="https://telegra.ph/file/610688f9db4ec407954b4.jpg" alt="animated" width="300" height="300" />
 </p>
   <h2 align="center">• 💃 INDOBOT 💃 •<br></h2>
   
