@@ -1,8 +1,8 @@
 {
-  "name": "QUEEN ELISA BOT 2.2.0 V",
+  "name": "INDOBOT",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "logo": "https://i.ibb.co/GCtyhf4/logo1.jpg",
   "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
 
   "env": {
@@ -24,7 +24,7 @@
   },
 
  "ALIVE_MESSAGE" :{
-  "description" : "HOLA GRUPO",
+  "description" : "TYPE YOUR ALIVE MASSAGE",
   "required" : false,
 "value" : "default"
   },
@@ -54,7 +54,7 @@
   },
 
   "BOT_NAME" :{
-  "description" : "INDOBOT",
+  "description" : "YOUR BOT NAME",
   "requred" : false,
   "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
   },
@@ -66,13 +66,13 @@
   },
 
   "STICKER_PACK_NAME" :{
-  "description" : "INDOBOT",
+  "description" : "STICKER PACKAGE NAME",
   "requred" : true,
   "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
   },
 
   "STICKER_AUTHOR_NAME" :{
-  "description" : "INDOBOT",
+  "description" : "STICKER AUTHOR NAME",
   "requred" : true,
   "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
   },
