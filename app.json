@@ -20,11 +20,11 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"14256892344"
   },
 
  "ALIVE_MESSAGE" :{
-  "description" : "TYPE YOUR ALIVE MASSAGE",
+  "description" : "HOLA GRUPO",
   "required" : false,
 "value" : "default"
   },
@@ -32,7 +32,7 @@
 "CAPTION" :{
   "description" : "YOUR CAPTION",
   "requred" : false,
-  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 INDOBOT"
   },
   
   "SEND_WELCOME_MASSAGE" :{
@@ -54,25 +54,25 @@
   },
 
   "BOT_NAME" :{
-  "description" : "YOUR BOT NAME",
+  "description" : "INDOBOT",
   "requred" : false,
   "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
   },
 
   "OWNER_NAME" :{
-  "description" : "YOUR NAME",
+  "description" : "INDOBOT",
   "requred" : false,
   "value" :"ＭＲ ＮＩＭＡ"
   },
 
   "STICKER_PACK_NAME" :{
-  "description" : "STICKER PACKAGE NAME",
+  "description" : "INDOBOT",
   "requred" : true,
   "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
   },
 
   "STICKER_AUTHOR_NAME" :{
-  "description" : "STICKER AUTHOR NAME",
+  "description" : "INDOBOT",
   "requred" : true,
   "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
   },
@@ -122,7 +122,7 @@
   "PREFA" :{
   "description" : "NO NEED CHANGE IT",
   "requred" : true,
-  "value" :"['#','!','/','']"
+  "value" :"['%'+']"
   },
 
   "AUTO_BIO" :{
